@@ -14,7 +14,7 @@ parameters:
   type: string  
 
 variables:
-  azureSubscription: 'Azure subscription basic' 
+  azureSubscription: 'sp-poc-deployment' 
   resourceGroupName: 'rbiSolutions'
   synapseManagedResourceGroup: 'rbieuwdsynrdp01'
   prefix: 'ftatoolkit'
