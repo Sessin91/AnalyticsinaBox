@@ -14,12 +14,12 @@ parameters:
   type: string  
 
 variables:
-  azureSubscription: 'APOps-SubscriptionCnx' 
-  resourceGroupName: 'P1-AnalyticsFundamentals-RG'
-  synapseManagedResourceGroup: 'P1-AnalyticsFundamentals-Managed-RG'
+  azureSubscription: 'Azure subscription basic' 
+  resourceGroupName: 'rbiSolutions'
+  synapseManagedResourceGroup: 'rbieuwdsynrdp01'
   prefix: 'ftatoolkit'
-  resourceLocation: 'eastus'
-  storageAccountType: 'Standard_LRS'
+  resourceLocation: 'westeurope'
+  storageAccountType: 'Standard_GRS'
   sqlAdministratorLogin: 'sqladminuser'
   
 pool:
