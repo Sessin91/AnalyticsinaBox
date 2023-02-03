@@ -17,7 +17,7 @@ variables:
   azureSubscription: 'sp-poc-deployment' 
   resourceGroupName: 'rbiSolutions'
   synapseManagedResourceGroup: 'rbieuwdsynrdp01'
-  prefix: 'rbieuwdrdp01'
+  prefix: 'rbieuwdrdp'
   resourceLocation: 'westeurope'
   storageAccountType: 'Standard_GRS'
   sqlAdministratorLogin: 'sqladminuser'
